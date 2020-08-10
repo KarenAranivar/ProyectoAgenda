@@ -17,6 +17,7 @@ public class ProyectoAgenda {
     public static void main(String[] args) {
         // TODO code application logic here
         String Agenda=":D";
+        String Hola="";
         
         System.out.println("Hola Mari"
                );
